@@ -1,5 +1,3 @@
-# 100-research-papershttps://medium.com/@aakashg80/m4-competition-100k-timeseries-61-forecasting-methods-31e3b0549a56)
-3. A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting: This article explains the method used by the M4 winning algorithm [Link](https://medium.com/@aakashg80/m4-competition-winner-using-es-with-rnns-for-time-series-forecasting-1c86058c26e5)
 
 This lists all the research papers that I have read (and hopefully understood!)
 
