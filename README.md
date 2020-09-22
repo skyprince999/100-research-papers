@@ -13,3 +13,5 @@ This is my humble endevour to understand the latest research.
 3. A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting: This article explains the method used by the M4 winning algorithm [Link](https://medium.com/@aakashg80/m4-competition-winner-using-es-with-rnns-for-time-series-forecasting-1c86058c26e5)
 
 4. Analyzing Covid19 twitter stream: It's a summary of the research papers published using the Covid19 tweet dataset [Link](https://medium.com/@aakashg80/analyzing-covid-19-twitter-stream-d95523fea992)
+
+5. Analyzing three SOTA papers on NLP - first published in 2015
